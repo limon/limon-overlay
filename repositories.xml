@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>linhy-overlay</name>
+      <description lang="en">Linhy's Custom Gentoo Overlay.</description>
+        <homepage>https://github.com/limon/gentoo-overlay</homepage>
+        <owner type="person">
+            <name>linhy</name>
+            <email>limon7@gmail.com</email>
+        </owner>
+	<source type="git">https://github.com/limon/gentoo-overlay.git</source>
+        <feed>https://github.com/limon/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
